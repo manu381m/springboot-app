@@ -9,6 +9,7 @@ public class SpringbootAppApplication {
 
 	public static void main(String[] args) {
 		ConfigurableApplicationContext run = SpringApplication.run(SpringbootAppApplication.class, args);
+		int s=3813;
 	}
 
 }
