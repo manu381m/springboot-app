@@ -7,5 +7,6 @@ public class Bike {
 		int m=3813;
 		int c=10;
 		int k = 13;
+		int s= 3813;
 	}
 }
