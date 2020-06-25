@@ -6,5 +6,6 @@ public class Bike {
 	public void run() {
 		int m=3813;
 		int c=10;
+		int s= 3813;
 	}
 }
