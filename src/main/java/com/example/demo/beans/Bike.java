@@ -5,5 +5,6 @@ public class Bike {
 	private static Logger logger = LoggerFactory.getLogger(bike.class);
 	public void run() {
 		int m=3813;
+		int c=10;
 	}
 }
